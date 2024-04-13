@@ -10,4 +10,5 @@ Generated QR - >
 
 if in valid then - >
 
-![Screenshot 2024-04-13 191823](https://github.com/Rakshith-sai/QR-Code-Generator/assets/126788622/08e92d95-7dbe-43b3-879b-a0ba570fd570)
+![Screenshot 2024-04-13 191837](https://github.com/Rakshith-sai/QR-Code-Generator/assets/126788622/5db3072d-a3ff-4e63-a9da-789945e84869)
+
